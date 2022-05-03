@@ -1,7 +1,7 @@
 {
 	"instagram": {
-		"username": "",
-		"password": "",
+		"username": "reelsdb",
+		"password": "SA3cUQxTEvJT\:!3",
 		"seed": "story",
 		"credits_in_caption": false,
 		"credits_format": "reddit post from a subreit",
@@ -9,7 +9,7 @@
 	},
 	"reddit": {
 		"subreddits": {
-			"/r/videomemes": 100 }
+			"/r/TikTokCringe": 100 }
 	},
 	"schedule": {
 		"human_error": {
